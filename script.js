@@ -4,5 +4,5 @@ const form = document.getElementById("form");
 const errorElement = document.getElementById("error");
 
 form.addEventListener("submit" , (e) => {
-    
+    let messages = [];
 })
